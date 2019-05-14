@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObservableCollectionLesson", "ObservableCollection\ObservableCollectionLesson.csproj", "{FAAA7739-83C2-4BD4-91F7-4BA4B0F202FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAAA7739-83C2-4BD4-91F7-4BA4B0F202FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAAA7739-83C2-4BD4-91F7-4BA4B0F202FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAAA7739-83C2-4BD4-91F7-4BA4B0F202FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAAA7739-83C2-4BD4-91F7-4BA4B0F202FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2E17BAF-8048-4A16-B297-9BB7BDF7C057}
+	EndGlobalSection
+EndGlobal
